@@ -1,331 +1,38 @@
 {
-  "total": [
+  "batang": [
     {
-      "currentAmount": "1,184,357,437",
-      "beforeAmount": "1,603,387,508",
-      "growth": "-26.13",
-      "currentPercent": 1.2,
-      "beforePercent": 2
+      "tahun": "1346",
+      "amount": "1,603,387,508"
     }
   ],
-  "donasiTotal": [
+  "pusut": [
     {
-      "type": "Infak",
-      "currentAmount": "135,882,353",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Infak Tematik",
-      "currentAmount": "23,448,623",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Infak Terikat",
-      "currentAmount": "1,000,000",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Kemanusiaan",
-      "currentAmount": "4,122,556",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Wakaf",
-      "currentAmount": "20,398,111",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Zakat",
-      "currentAmount": "997,405,794",
-      "beforeAmount": "0",
-      "growth": "0.00"
+      "tahun": "1346",
+      "amount": "1,603,387,508"
     }
   ],
-  "donasiPerDay": [
+  "jakarta_selatan": [
     {
-      "hari": 1,
-      "trx_date": "2016-06-06",
-      "currentAmount": "691,822,905",
-      "beforeAmount": "383,946,338",
-      "growth": "80.19"
-    },
-    {
-      "hari": 2,
-      "trx_date": "2016-06-07",
-      "currentAmount": "435,219,559",
-      "beforeAmount": "336,312,648",
-      "growth": "29.41"
-    },
-    {
-      "hari": 3,
-      "trx_date": "2016-06-08",
-      "currentAmount": "57,314,973",
-      "beforeAmount": "627,718,139",
-      "growth": "-90.87"
-    },
-    {
-      "hari": 4,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "255,410,383",
-      "growth": -100
-    },
-    {
-      "hari": 5,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "220,830,691",
-      "growth": -100
-    },
-    {
-      "hari": 6,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "583,766,639",
-      "growth": -100
-    },
-    {
-      "hari": 7,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "584,241,891",
-      "growth": -100
-    },
-    {
-      "hari": 8,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "933,251,359",
-      "growth": -100
-    },
-    {
-      "hari": 9,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "988,833,133",
-      "growth": -100
-    },
-    {
-      "hari": 10,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,508,014,609",
-      "growth": -100
-    },
-    {
-      "hari": 11,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "574,955,785",
-      "growth": -100
-    },
-    {
-      "hari": 12,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "507,987,007",
-      "growth": -100
-    },
-    {
-      "hari": 13,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,258,055,284",
-      "growth": -100
-    },
-    {
-      "hari": 14,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,142,064,314",
-      "growth": -100
-    },
-    {
-      "hari": 15,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,105,093,626",
-      "growth": -100
-    },
-    {
-      "hari": 16,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,564,377,961",
-      "growth": -100
-    },
-    {
-      "hari": 17,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "2,686,808,389",
-      "growth": -100
-    },
-    {
-      "hari": 18,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "841,233,228",
-      "growth": -100
-    },
-    {
-      "hari": 19,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "684,915,951",
-      "growth": -100
-    },
-    {
-      "hari": 20,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,689,030,684",
-      "growth": -100
-    },
-    {
-      "hari": 21,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "2,121,467,480",
-      "growth": -100
-    },
-    {
-      "hari": 22,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,587,291,633",
-      "growth": -100
-    },
-    {
-      "hari": 23,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,739,394,913",
-      "growth": -100
-    },
-    {
-      "hari": 24,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "5,633,877,180",
-      "growth": -100
-    },
-    {
-      "hari": 25,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,451,100,918",
-      "growth": -100
-    },
-    {
-      "hari": 26,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "1,583,054,154",
-      "growth": -100
-    },
-    {
-      "hari": 27,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "3,590,010,466",
-      "growth": -100
-    },
-    {
-      "hari": 28,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "4,041,576,659",
-      "growth": -100
-    },
-    {
-      "hari": 29,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "5,688,097,920",
-      "growth": -100
-    },
-    {
-      "hari": 30,
-      "trx_date": 0,
-      "currentAmount": 0,
-      "beforeAmount": "4,782,139,294",
-      "growth": -100
+      "tahun": "1346",
+      "amount": "1,603,387,508"
     }
   ],
-  "donasiBank": [
+  "debor": [
     {
-      "type": "Infak",
-      "currentAmount": "99,987,618",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Infak Tematik",
-      "currentAmount": "16,227,223",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Kemanusiaan",
-      "currentAmount": "3,817,556",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Wakaf",
-      "currentAmount": "13,528,111",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Zakat",
-      "currentAmount": "849,494,968",
-      "beforeAmount": "0",
-      "growth": "0.00"
+      "tahun": "1346",
+      "amount": "1,603,387,508"
     }
   ],
-  "donasiCash": [
+  "timbek": [
     {
-      "type": "Infak",
-      "currentAmount": "35,894,735",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Infak Tematik",
-      "currentAmount": "7,221,400",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Infak Terikat",
-      "currentAmount": "1,000,000",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Kemanusiaan",
-      "currentAmount": "305,000",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Wakaf",
-      "currentAmount": "6,870,000",
-      "beforeAmount": "0",
-      "growth": "0.00"
-    },
-    {
-      "type": "Zakat",
-      "currentAmount": "147,910,826",
-      "beforeAmount": "0",
-      "growth": "0.00"
+      "tahun": "1346",
+      "amount": "1,603,387,508"
     }
-  ]
+  ],
+  "gerai": [
+    {
+      "tahun": "1346",
+      "amount": "1,603,387,508"
+    }
+  ],
 }
