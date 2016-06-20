@@ -41,6 +41,13 @@
       "amount":  3341757823,
       "target": 1373391404,
       "target_string": "1.373 Miliyar"
+    },
+    {
+      "area_name" : "PENJEMPUTAN",
+      "cr_conter_id": [323],
+      "amount":  0,
+      "target": 0,
+      "target_string": "0"
     }
   ]
 }
