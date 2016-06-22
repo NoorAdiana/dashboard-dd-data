@@ -3,44 +3,44 @@
     {
       "area_name" : "BATANG",
       "cr_conter_id": [294,295,322,406,408,409,410,412,413,414,416,418,898,962,974,975,977,978],
-      "amount":  1262480350,
-      "target": 1211515578,
-      "target_string": "1.211 Miliyar"
+      "amount":  630862950,
+      "target": 1299287477,
+      "target_string": "1.299 Miliyar"
     },
     {
       "area_name" : "PUSUT",
       "cr_conter_id": [301,303,304,419,420,421,422,423,424,552,966,967,983,984,985,1001,1003,1014],
-      "amount":  1230927470,
-      "target": 964971214,
-      "target_string": "965 Juta"
+      "amount":  504248901,
+      "target": 1161160906,
+      "target_string": "2.184 Miliyar"
     },
     {
       "area_name" : "JAKARTA SELATAN",
       "cr_conter_id": [291,292,293,428,434,438,439,441,442,519,943,953,979,980,982],
-      "amount":  3099745829,
-      "target": 1778166373,
-      "target_string": "1.778 Miliyar"
+      "amount":  1185469216,
+      "target": 2184277123,
+      "target_string": "2.184 Miliyar"
     },
     {
       "area_name" : "DEBOR",
       "cr_conter_id": [296,297,298,299,300,341,459,465,466,467,468,882,968,969,970,986,987,988,989],
-      "amount":  1643496426,
-      "target": 1961695832,
-      "target_string": "1.961 Miliyar"
+      "amount":  746215288,
+      "target": 1370575755,
+      "target_string": "1.370 Miliyar"
     },
     {
       "area_name" : "TIMBEK",
       "cr_conter_id": [305,306,307,308,440,445,448,449,451,452,454,463,532,901,992,993],
-      "amount":  2821880536,
-      "target": 2021969750,
-      "target_string": "2.021 Miliyar"
+      "amount":  1080577325,
+      "target": 2203819475,
+      "target_string": "2.203 Miliyar"
     },
     {
       "area_name" : "GERAI",
       "cr_conter_id": [285,286,287,288,309,310,311,479,481,529,533,539,551,561,564,575,578,877,950,990,1004],
-      "amount":  3341757823,
-      "target": 1373391404,
-      "target_string": "1.373 Miliyar"
+      "amount":  61643600,
+      "target": 139383220,
+      "target_string": "139 Juta"
     },
     {
       "area_name" : "PENJEMPUTAN",
